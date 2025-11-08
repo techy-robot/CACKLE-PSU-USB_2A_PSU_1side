@@ -1,8 +1,11 @@
 ---
-modified: 2025-10-07T16:54:25-06:00
+modified: 2025-11-07T22:09:18-07:00
 ---
 
 # USB Only PSU one side
+
+> [!TIP]
+> This board is part of a larger modular control board ecosystem, [CACKLE](https://github.com/techy-robot/CACKLE)
 
 The main ICs are an mcu, and a 5v 2a switching regulator. The system can theoretically handle 20 volt spikes, but this is mostly meant for 5v output on one side only.
 
